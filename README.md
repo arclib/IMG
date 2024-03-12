@@ -1,2 +1,2 @@
-# PicGoCDN
+# IMG
 图床
